@@ -1,0 +1,5 @@
+name = "pages-test"
+compatibility_date = "2024-03-01" # 比較的新しい日付を設定
+compatibility_flags = [
+  "nodejs_compat"
+]
